@@ -1,0 +1,32 @@
+[0.399s] Invoking command in '/home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/prefix_override:/home/magnetic/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/build
+[0.556s] running develop
+[0.666s] Removing /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.683s] Invoked command in '/home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/prefix_override:/home/magnetic/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/build
+[0.684s] Invoking command in '/home/magnetic/ros-demonstration/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/prefix_override:/home/magnetic/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/build install --record /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data --force
+[0.828s] running egg_info
+[0.828s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[0.828s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[0.828s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[0.828s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[0.828s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[0.829s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.830s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.830s] running build
+[0.830s] running build_py
+[0.830s] copying my_robot_controller/my_first_node.py -> /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[0.830s] running install
+[0.830s] running install_lib
+[0.831s] creating /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.831s] copying /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/my_first_node.py -> /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.831s] copying /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.831s] byte-compiling /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/my_first_node.py to my_first_node.cpython-310.pyc
+[0.831s] byte-compiling /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[0.831s] running install_data
+[0.831s] copying resource/my_robot_controller -> /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.831s] copying package.xml -> /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[0.831s] running install_egg_info
+[0.832s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[0.833s] running install_scripts
+[0.846s] Installing test_node script to /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.846s] writing list of installed files to '/home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/install.log'
+[0.860s] Invoked command in '/home/magnetic/ros-demonstration/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/prefix_override:/home/magnetic/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/build install --record /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data --force

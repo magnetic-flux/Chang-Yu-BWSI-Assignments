@@ -1,0 +1,32 @@
+[0.435s] Invoking command in '/home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/prefix_override:/home/magnetic/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/build --no-deps symlink_data --force
+[0.618s] running develop
+[0.627s] /home/magnetic/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[0.627s] !!
+[0.627s] 
+[0.627s]         ********************************************************************************
+[0.627s]         Please avoid running ``setup.py`` and ``easy_install``.
+[0.627s]         Instead, use pypa/build, pypa/installer or other
+[0.627s]         standards-based tools.
+[0.627s] 
+[0.627s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[0.627s]         ********************************************************************************
+[0.627s] 
+[0.627s] !!
+[0.627s]   easy_install.initialize_options(self)
+[0.758s] running egg_info
+[0.767s] writing my_robot_controller.egg-info/PKG-INFO
+[0.767s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.767s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.767s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.767s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.789s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.789s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.798s] running build_ext
+[0.798s] Creating /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.799s] Installing test_node script to /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.799s] 
+[0.799s] Installed /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller
+[0.799s] running symlink_data
+[0.799s] symbolically linking /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/resource/my_robot_controller -> /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.799s] symbolically linking /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/package.xml -> /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[0.816s] Invoked command in '/home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/prefix_override:/home/magnetic/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/build --no-deps symlink_data --force

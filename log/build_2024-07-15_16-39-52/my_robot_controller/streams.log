@@ -1,0 +1,17 @@
+[0.381s] Invoking command in '/home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/prefix_override:/home/magnetic/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
+[0.535s] running develop
+[0.644s] running egg_info
+[0.644s] writing my_robot_controller.egg-info/PKG-INFO
+[0.644s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.644s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.644s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.644s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.645s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.645s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.646s] running build_ext
+[0.646s] Creating /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.647s] Installing test_node script to /home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.647s] 
+[0.647s] Installed /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller
+[0.647s] running symlink_data
+[0.664s] Invoked command in '/home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/prefix_override:/home/magnetic/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/magnetic/ros-demonstration/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/magnetic/ros-demonstration/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
