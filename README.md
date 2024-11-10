@@ -1,1 +1,1 @@
-Code submissions for the MIT BeaverWorks UAV program! 
+Code submissions for the MIT Beaver Works UAV program! 
